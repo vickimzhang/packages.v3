@@ -169,11 +169,25 @@
     location="https://github.com/ApexRMS/helloworld/releases/download/2.1.0/helloworld-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworld"
+    version="2.1.1"
+    description="Example demonstrating how to create a SyncroSim package"
+    url="https://apexrms.github.io/helloworld/"
+    location="https://github.com/ApexRMS/helloworld/releases/download/2.1.1/helloworld-2-1-1.ssimpkg">
+  </package>
+  <package
     name="helloworldPipeline"
     version="2.1.0"
     description="Example demonstrating how to use pipelines with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.0/helloworldPipeline-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldPipeline"
+    version="2.1.1"
+    description="Example demonstrating how to use pipelines with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.1/helloworldPipeline-2-1-1.ssimpkg">
   </package>
   <package
     name="helloworldSpatial"
@@ -197,11 +211,25 @@
     location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.0/helloworldTime-2-1-0.ssimpkg">
   </package>
   <package
+    name="helloworldTime"
+    version="2.1.1"
+    description="Example demonstrating how to use timesteps with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/2.1.1/helloworldTime-2-1-1.ssimpkg">
+  </package>
+  <package
     name="helloworldUncertainty"
     version="2.1.0"
     description="Example demonstrating how to use iterations with an R model"
     url="https://apexrms.github.io/helloworldEnhanced/"
     location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.0/helloworldUncertainty-2-1-0.ssimpkg">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="2.1.1"
+    description="Example demonstrating how to use iterations with an R model"
+    url="https://apexrms.github.io/helloworldEnhanced/"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/2.1.1/helloworldUncertainty-2-1-1.ssimpkg">
   </package>
   <package
     	name="lucasbuilder"
