@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="helloworldSpatial"
+  version="2.1.1"
+  description="Example demonstrating how to use spatial data with an R model"
+  url="https://apexrms.github.io/helloworldEnhanced/"
+  location="https://github.com/ApexRMS/helloworldPipeline/releases/download/2.1.1/helloworldPipeline-2-1-1.ssimpkg">
+
+  <onlineLibrary 
+    name="helloworldSpatial-example" 
+    displayName="Helloworld Example"
+    description="Example library demonstrating the use of spatial data with an R model"
+    libraryLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/Helloworld%20Spatial%20Example.ssimbak"
+    imageLocation="https://s3.us-west-2.amazonaws.com/apexrms.com.syncrosim.templates/helloworldSpatial/v2.1.0/helloworld-spatial-icon.png">
+  </onlineLibrary>
+
+</package>
